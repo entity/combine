@@ -1,0 +1,16 @@
+{
+  "name": "combine",
+  "repo": "entity/combine",
+  "author": "stagas",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "combines two functions into one",
+  "keywords": [
+    "combine",
+    "function"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  }
+}
